@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anasayfa</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+   
+        <hr>
+            <nav>
+                <ul>
+                    <li><a href="about-us.html">hakkimizda</a>
+                    </li>
+                 <li>
+                     <a href="contact.html">iletişim</a>
+                    </li>
+                 <li>
+                     <a href="index8.html">anasayfa</a>
+                  </li>
+                </ul>
+            </nav>
+        </hr>
+    
+    <!--Navban - End -->
+    <!-- Content - Start -->
+    <section>
+        <!-- articles-start -->
+        <article>
+            <h2>iletişim</h2>
+            <img src="https://picsum.photos/id/27/200/300" alt="foto 1">
+            <p>
+                adres:
+            </p>
+            <address>
+                Zemin İstanbul<br>
+                Şahkulu, Şişhane Metro Durağı, Meşrutiyet Caddesi, No:125<br>
+            </address>
+            <ul>
+                <li><a href="tel:02122223344">0212 222 33 44</a></li>
+                <li><a href="mailto:info@kodluyoruz.org">info@kodluyoruz.org</a></li>
+            </ul>
+            <hr>
+        </articles>
+        <!-- articles - end -->
+    </section>
+    <!--Content - End -->
+
+
+    <!-- Footer - Start -->
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="about-us.html">hakkimizda</a>
+                </li>
+             <li>
+                 <a href="contact.html">iletişim</a>
+                </li>
+             <li>
+                 <a href="index8.html">anasayfa</a>
+              </li>
+            </ul>
+        </nav>
+    </footer>
+    <!-- Footer - End -->
+</body>
+</html>

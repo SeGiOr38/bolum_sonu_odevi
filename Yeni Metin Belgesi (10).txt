@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>anasayfa</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+   
+        <hr>
+            <nav>
+                <ul>
+                    <li><a href="about-us.html">hakkimizda</a>
+                    </li>
+                 <li>
+                     <a href="contact.html">iletişim</a>
+                    </li>
+                 <li>
+                     <a href="index8.html">anasayfa</a>
+                  </li>
+                </ul>
+            </nav>
+        </hr>
+    
+    <!--Navban - End -->
+    <!-- Content - Start -->
+    <section>
+        <!-- articles-start -->
+        <article>
+            <h2>birinci yazi</h2>
+            <img width="300" src="C:\Users\GİZEM\Desktop\Yeni klasör (3)\3_Forest.jpg" alt="foto 1">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, maiores!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Dolore deserunt provident obcaecati iure.</p>
+            <p>Sunt asperiores a voluptate dolores?</p>
+            <ol>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Consequatur, rem quas.</li>
+                <li>Facilis, pariatur ad!</li>
+                <li>Officia, dolorum temporibus!</li>
+            </ol>
+            <hr>
+        </article>
+        <article>
+            <h2>ikinci yazi</h2>
+            <img width="300" src="https://picsum.photos/id/1/200/300" alt="foto 1">   
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, maiores!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Dolore deserunt provident obcaecati iure.</p>
+            <p>Sunt asperiores a voluptate dolores?</p>
+            <ul>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Consequatur, rem quas.</li>
+                <li>Facilis, pariatur ad!</li>
+                <li>Officia, dolorum temporibus!</li>
+            </ul>
+            <hr>
+        </article>
+        <article>
+            <h2>üçüncü yazi</h2>
+            <img width="300" src="https://fastly.picsum.photos/id/12/2500/1667.jpg?hmac=Pe3284luVre9ZqNzv1jMFpLihFI6lwq7TPgMSsNXw2w" alt="foto 1">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, maiores!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Dolore deserunt provident obcaecati iure.</p>
+            <p>Sunt asperiores a voluptate dolores?</p>
+            <hr>
+        </article>
+        <!-- articles - end -->
+    </section>
+    <!--Content - End -->
+
+
+    <!-- Footer - Start -->
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="about-us.html">hakkimizda</a>
+                </li>
+             <li>
+                 <a href="contact.html">iletişim</a>
+                </li>
+             <li>
+                 <a href="index8.html">anasayfa</a>
+              </li>
+            </ul>
+        </nav>
+    </footer>
+    <!-- Footer - End -->
+</body>
+</html>
